@@ -1,0 +1,1 @@
+Bilgisayar Ekran Görüntü Alma
