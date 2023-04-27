@@ -1,0 +1,21 @@
+C:\Users\Buse ÖZLER\Desktop\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.csproj.AssemblyReference.cache
+C:\Users\Buse ÖZLER\Desktop\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.Form1.resources
+C:\Users\Buse ÖZLER\Desktop\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.Properties.Resources.resources
+C:\Users\Buse ÖZLER\Desktop\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.csproj.GenerateResource.cache
+C:\Users\Buse ÖZLER\Desktop\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.csproj.CoreCompileInputs.cache
+C:\Users\Buse ÖZLER\Desktop\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\bin\Debug\Bilgisayar_Ekran_Goruntu_Alma.exe.config
+C:\Users\Buse ÖZLER\Desktop\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\bin\Debug\Bilgisayar_Ekran_Goruntu_Alma.exe
+C:\Users\Buse ÖZLER\Desktop\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\bin\Debug\Bilgisayar_Ekran_Goruntu_Alma.pdb
+C:\Users\Buse ÖZLER\Desktop\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.exe
+C:\Users\Buse ÖZLER\Desktop\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.pdb
+C:\Users\Batuhan Özler\Desktop\Projelerim\Yeni klasör\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\bin\Debug\Bilgisayar_Ekran_Goruntu_Alma.exe.config
+C:\Users\Batuhan Özler\Desktop\Projelerim\Yeni klasör\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\bin\Debug\Bilgisayar_Ekran_Goruntu_Alma.exe
+C:\Users\Batuhan Özler\Desktop\Projelerim\Yeni klasör\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\bin\Debug\Bilgisayar_Ekran_Goruntu_Alma.pdb
+C:\Users\Batuhan Özler\Desktop\Projelerim\Yeni klasör\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.csproj.AssemblyReference.cache
+C:\Users\Batuhan Özler\Desktop\Projelerim\Yeni klasör\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Batuhan Özler\Desktop\Projelerim\Yeni klasör\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.Form1.resources
+C:\Users\Batuhan Özler\Desktop\Projelerim\Yeni klasör\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.Properties.Resources.resources
+C:\Users\Batuhan Özler\Desktop\Projelerim\Yeni klasör\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.csproj.GenerateResource.cache
+C:\Users\Batuhan Özler\Desktop\Projelerim\Yeni klasör\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Özler\Desktop\Projelerim\Yeni klasör\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.exe
+C:\Users\Batuhan Özler\Desktop\Projelerim\Yeni klasör\Bilgisayar_Ekran_Goruntu_Alma\Bilgisayar_Ekran_Goruntu_Alma\obj\Debug\Bilgisayar_Ekran_Goruntu_Alma.pdb
